@@ -1,4 +1,6 @@
+import { fileURLToPath } from "url";
 import styles from "../styles/components/ChallengeBox.module.css"
+
 
 export default function ChallengeBox() { 
 
