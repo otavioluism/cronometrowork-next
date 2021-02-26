@@ -33,7 +33,7 @@
 }
 
 body { 
-    background: var(--background);
+    background: rgba(0, 0, 0, 0.18);
     color: var(--text)
 }
 
